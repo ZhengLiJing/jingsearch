@@ -5,4 +5,4 @@
   使用模块cheerio进行workflow开发，对于一个工具来说体积较大
 
 # Usage
-  
+  下载hz.alfredworkflow
